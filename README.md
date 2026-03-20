@@ -24,7 +24,7 @@ This project combines a React frontend, a Node.js backend, and a Python machine 
 ## Demo
 
 Add screenshots or a short demo GIF here.
-img src="demo.png" alt="Demo of the Student Performance Predictor" />
+<img src="demo.png" alt="Demo of the Student Performance Predictor" />
 
 ## How to Run
 
